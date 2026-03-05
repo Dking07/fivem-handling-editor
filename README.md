@@ -1,7 +1,7 @@
 # HANDLING EDITOR [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a89c6e8f-a357-409d-9def-40094a73d51d" alt="Thumb" width="400px" />
+<img src="https://github.com/user-attachments/assets/17e3d90e-b507-4c3e-9792-9bea429f9ee6" alt="Thumb" width="400px" />
 </div>
 
 ## DESCRIPTION
@@ -35,11 +35,11 @@ Transform your server's vehicle tuning experience with this sophisticated **Hand
 <details>
   <summary><h3 style="display: inline;">Interface Showcase</h3></summary>
 
-  <img src="https://github.com/user-attachments/assets/a89c6e8f-a357-409d-9def-40094a73d51d" alt="1" width="40%" style="margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/a7bb155e-7aea-4a91-b591-307206ead811" alt="2" width="40%" style="margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/f4d35f4e-6707-42cb-93ff-26557d8064c7" alt="3" width="40%" style="margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/b69982b2-ec78-4f90-9695-ac96c7f033c1" alt="4" width="40%" style="margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/a8a0eb76-2707-4a2b-add3-2e9c0e45e92d" alt="5" width="40%" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/17e3d90e-b507-4c3e-9792-9bea429f9ee6" alt="1" width="40%" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/738cb1fc-1961-4e9c-abd7-f0bb581e1761" alt="2" width="40%" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/8dae1892-f8e7-45e3-8252-e22b3b721f80" alt="3" width="40%" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/83a9fcc6-4917-41f7-90aa-25b309aecb69" alt="4" width="40%" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/2fbef496-702e-4d4b-a036-4f2509da4470" alt="5" width="40%" style="margin: 5px;"/>
 
 </details>
 
