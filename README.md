@@ -18,7 +18,7 @@ Transform your server's vehicle tuning experience with this sophisticated **Hand
 ### **Extensive Parameter Support**
 - Full access to standard `CHandlingData`.
 - Support for SubHandling fields (e.g., `CCarHandlingData`, `CBikeHandlingData`, `CBoatHandlingData`).
-- Precise numerical adjustments using modern UI sliders or manual inputs.
+- Precise numerical adjustments using modern UI manual inputs.
 
 ### **Export**
 - Copy production-ready `handling.meta` XML syntax straight to your clipboard.
